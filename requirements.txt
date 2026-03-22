@@ -1,0 +1,12 @@
+streamlit
+scikit-learn
+pandas
+numpy
+nltk
+python-docx
+Pillow
+pytesseract
+pdfplumber
+fastapi
+uvicorn
+python-multipart
