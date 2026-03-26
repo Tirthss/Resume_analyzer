@@ -1,6 +1,3 @@
-# ============================================================
-# app.py - REDESIGNED UI - Modern, Professional, Human Friendly
-# ============================================================
 
 import streamlit as st
 import tempfile
