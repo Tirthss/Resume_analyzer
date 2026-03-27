@@ -333,7 +333,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("""
     <div style='color:#8892a4; font-size:0.75rem; text-align:center;'>
-        Built with ❤️ using Python<br>
+        Built using Python<br>
         ML Model: LinearSVC · 85.73% accuracy<br>
         46 Job Categories
     </div>
